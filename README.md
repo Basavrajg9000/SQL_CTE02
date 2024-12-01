@@ -1,0 +1,2 @@
+# SQL_CTE02
+SQL_CTE02
